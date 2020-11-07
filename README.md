@@ -22,5 +22,6 @@ This is a workout tracker application that allows users to add and update their 
 
 ## Demo
 
+[Workout-Tracker](https://intense-bayou-58867.herokuapp.com/?id=5fa5fccc5b13100017ee0d21)
 
-
+![Workout-Tracker](assets/img/Fitness-Tracker.gif)
