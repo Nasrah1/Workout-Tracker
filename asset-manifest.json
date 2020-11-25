@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nasrah1/React-Portfolio/static/css/main.59d6ea2e.chunk.css",
+    "main.js": "/Nasrah1/React-Portfolio/static/js/main.90192040.chunk.js",
+    "main.js.map": "/Nasrah1/React-Portfolio/static/js/main.90192040.chunk.js.map",
+    "runtime-main.js": "/Nasrah1/React-Portfolio/static/js/runtime-main.a340e83e.js",
+    "runtime-main.js.map": "/Nasrah1/React-Portfolio/static/js/runtime-main.a340e83e.js.map",
+    "static/js/2.32ff76eb.chunk.js": "/Nasrah1/React-Portfolio/static/js/2.32ff76eb.chunk.js",
+    "static/js/2.32ff76eb.chunk.js.map": "/Nasrah1/React-Portfolio/static/js/2.32ff76eb.chunk.js.map",
+    "index.html": "/Nasrah1/React-Portfolio/index.html",
+    "static/css/main.59d6ea2e.chunk.css.map": "/Nasrah1/React-Portfolio/static/css/main.59d6ea2e.chunk.css.map",
+    "static/js/2.32ff76eb.chunk.js.LICENSE.txt": "/Nasrah1/React-Portfolio/static/js/2.32ff76eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a340e83e.js",
+    "static/js/2.32ff76eb.chunk.js",
+    "static/css/main.59d6ea2e.chunk.css",
+    "static/js/main.90192040.chunk.js"
+  ]
+}
